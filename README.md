@@ -32,10 +32,7 @@ This project analyzes Blinkit grocery sales data using **Microsoft Power BI**. T
 - 📊 `Blinkit_Sales_Analysis.pbix` – Power BI dashboard file
 - 🖼️ `Dashboard.png` – Dashboard screenshot
 
-## 👩‍💻 Author
-**Muskan**
 
-🔗 GitHub: [Add your GitHub profile link here]
 
 ---
 ⭐ If you find this project useful, feel free to star the repository!
